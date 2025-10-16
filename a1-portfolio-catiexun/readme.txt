@@ -38,7 +38,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - Navigation bar
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-- No warnings or errors were ignored
+- Ignored alt text warnings, as it pinged the all images as needing longer descriptions and needing empty alt text
+- Ignored link purpose warnings, All the hyperlinks describe the page they're navigating to
 
 4. How long, in hours, did it take you to complete this assignment?
 - ~10 hours
